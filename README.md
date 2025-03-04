@@ -1,3 +1,6 @@
 Engeto Project Power BI
 
-NHL
+zdroj dat: NHL
+
+
+Pavel Kozák Discord jméno: Pavel K.
